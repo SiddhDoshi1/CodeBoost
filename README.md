@@ -40,7 +40,4 @@ node server.js
 - **Backend**: Node.js, WebSockets
 - **AI Integration**: Gemini API
 
-## 📄 License
-This project is licensed under the **MIT License**.
-
 ## Made by me with ❤️
