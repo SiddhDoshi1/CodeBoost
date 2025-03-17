@@ -29,18 +29,16 @@ Welcome to **Intelligent IDE**, a next-generation AI-powered Integrated Developm
 ## 📥 Installation
 ```sh
 git clone https://github.com/SiddhDoshi1/CodeBoost
-cd intelligent-ide
+cd codeboost
 npm install
-npm start
+npm run dev
+node server.js
 ```
 
 ## 🛠 Technologies Used
 - **Frontend**: React, Monaco Editor
 - **Backend**: Node.js, WebSockets
 - **AI Integration**: Gemini API
-
-## 🤝 Contributing
-We welcome contributions! Feel free to submit pull requests or report issues.
 
 ## 📄 License
 This project is licensed under the **MIT License**.
