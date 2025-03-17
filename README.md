@@ -32,7 +32,7 @@ git clone https://github.com/SiddhDoshi1/CodeBoost
 cd codeboost
 npm install
 npm run dev
-node server.js
+node backend/server.js
 ```
 
 ## 🛠 Technologies Used
